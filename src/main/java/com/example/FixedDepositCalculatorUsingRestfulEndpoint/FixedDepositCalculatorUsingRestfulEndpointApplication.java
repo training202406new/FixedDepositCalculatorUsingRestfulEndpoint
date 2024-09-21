@@ -14,3 +14,4 @@ public class FixedDepositCalculatorUsingRestfulEndpointApplication {
 		SpringApplication.run(FixedDepositCalculatorUsingRestfulEndpointApplication.class, args);
 	}
 }
+
